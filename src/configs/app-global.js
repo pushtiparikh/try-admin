@@ -24,7 +24,7 @@ export const MESSAGING_SENDER_ID = '748418011151';
 export const APP_ID = '1:748418011151:web:0a55033660a4f08c20537a';
 export const MEASUREMENT_ID = 'G-2MCN6L44DK';
 
-export const RECAPTCHASITEKEY = '6LesdI0mAAAAAOsL4S5ZsqGmaW5VTw6z8bc7_maZ';
+export const RECAPTCHASITEKEY = '6LcujT8pAAAAAJu5ziJUeMfnnLMTANKsrKtG5GV_';
 
 export const DEMO_SELLER = 334; // seller_id
 export const DEMO_SELLER_UUID = '3566bdf6-3a09-4488-8269-70a19f871bd0'; // seller_id
